@@ -1,5 +1,9 @@
 # react-template
-This is a template to use when starting a new React project
+This is a template to use when starting a new React project.
+
+To use this file: 
+1. git clone
+2. npm install
 
 Steps used to create this template:
 
