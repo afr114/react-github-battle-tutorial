@@ -7,6 +7,10 @@ To use this file:
 
 2. npm install
 
+Note that you should not use es6 javascript lanaguage with this template.  To start writing React components just go to the app directory, open up index.js and start writing your components.
+
+After you are done, you can type in npm start in the terminal and go to localhost:8080 to see the results.
+
 FYI steps I used to create this template:
 
 1. npm init 
