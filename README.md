@@ -2,10 +2,12 @@
 This is a template to use when starting a new React project.
 
 To use this file: 
-1. git clone
+
+1. git clone https://github.com/afr114/react-template.git
+
 2. npm install
 
-Steps used to create this template:
+FYI steps I used to create this template:
 
 1. npm init 
 2. npm install --save react react-dom
