@@ -12,5 +12,5 @@ Steps used to create this template:
 7. mkdir webpack.config.js in root directory
 8. create .babelrc file in root directory 
 
-T
+
 
